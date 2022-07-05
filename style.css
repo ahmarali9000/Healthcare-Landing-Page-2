@@ -1,0 +1,150 @@
+
+@import url('http://fonts.cdnfonts.com/css/pusab');
+      
+.nav-text{
+    font-weight:800;
+    letter-spacing:0.2px;
+    font-size: x-large;
+}
+
+.label-text{
+    font-family: 'Pusab',sans-serif;
+    color: #e16162;
+    font-size: 25px;
+    
+}
+
+input{
+    border-top:none ;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #e16162;
+    background: none;
+    
+    
+}
+input::placeholder{
+    color: white;
+    font-size: 25px;
+}
+
+#btn1-style{
+    background-color: #f9bc61;
+    border: 2px solid #000080;
+    color: #000080;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#btn2-style{
+    background-color:#e16162;
+    color: white;
+    font-weight: 800;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:8px ;
+    padding-bottom:8px ;
+    border: none;
+    border-radius: 5px;
+}
+
+.footer-text{
+    font-weight:800;
+    letter-spacing:0.2px;
+    font-size: 20px;
+    
+}
+.mySlides {display:none}
+
+.slide-btn{
+    color: #000080;
+    background-color: transparent;
+    border-radius: 100px;
+    border: 2px solid #000080;
+    padding: 20px;
+    
+}
+
+
+
+/* section#1 */
+
+/* #section1 {
+    position: relative;
+    min-height: 400px;
+    width: 100%;
+    background: white;
+}
+
+.curve{
+    position: absolute;
+    height: 500px;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.curve::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 59%;
+    width: 55%;
+    height: 100%;
+    transform: translate(82%, 69.9%);
+    background-color: hsl(216, 21%, 16%);
+    z-index: 1;
+}
+.curve::after {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    background-color: white;
+    transform: translate(0%, 34%);
+    z-index: -1;
+}
+
+/* Section#2 */
+
+/* #section2 {
+    position: relative;
+    min-height: 600px;
+    width: 100%;
+    background: #f2c0bf;
+    z-index: -2;
+}
+
+
+.curve{
+    position: absolute;
+    height: 500px;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.curve::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 59%;
+    width: 55%;
+    height: 100%;
+    transform: translate(82%, 69.9%);
+    background-color: #f2c0bf;
+    z-index: 1;
+}
+.curve::after {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    background-color: white;
+    transform: translate(0%, 34%);
+    z-index: -1;
+} */ 
